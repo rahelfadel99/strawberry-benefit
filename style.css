@@ -12,6 +12,13 @@ header {
     text-align: center;
 }
 
+header .main-image {
+    width: 100%;
+    height: auto;
+    max-width: 600px; /* Membatasi lebar maksimal gambar */
+    margin-top: 20px;
+}
+
 main {
     padding: 20px;
 }
